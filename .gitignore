@@ -1,0 +1,10 @@
+message.txt
+*.pdf
+.idea/
+*.iml
+.obsidian/
+
+node_modules/
+
+prog/prog-2026-2027/
+
